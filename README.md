@@ -1,11 +1,11 @@
-## DAA-ArtGallery
+# DAA-ArtGallery
 Implementation of Art Gallery Problem
 
 ## Instruction to run 
 
 python3 main.py
 
-# General Instructions for GUI:
+### General Instructions for GUI:
 
  1)Message regarding the program(i.e result,coloring,etc) will be displayed at top of the screen of GUI 
  
@@ -14,7 +14,7 @@ python3 main.py
  3)Press Esc to exit the GUI screen
  
 
-Input ways:
+#### Input ways:
 
 1)Input by mouse cursor
 	*to terminate the creation of polygon press enter.
