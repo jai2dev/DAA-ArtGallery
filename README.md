@@ -3,7 +3,7 @@ Implementation of Art Gallery Problem
 
 ## Instruction to run 
 
-python3 main.py
+$ python3 main.py
 
 ### General Instructions for GUI:
 
@@ -23,5 +23,7 @@ python3 main.py
 
 While making a input file make sure that the file vertices do make the simple polygon
 eg. 7 8   i.e (x,y)
+
     10 50
+    
     45 63
