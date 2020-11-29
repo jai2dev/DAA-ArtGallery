@@ -3,6 +3,8 @@ Implementation of Art Gallery Problem
 
 ## Instruction to run 
 
+$ python3 -m pip install easygui
+$ python3 -m pip install pygame
 $ python3 main.py
 
 ### General Instructions for GUI:
